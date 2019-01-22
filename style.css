@@ -1,0 +1,20 @@
+body {
+    height: 100vh;
+    background: #f7f6f6;
+}
+
+.row {
+    margin: 5rem;
+}
+
+.taskList {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.smallNote {
+    width: 285px;
+    height: 285px;
+    margin: 15px;
+}
